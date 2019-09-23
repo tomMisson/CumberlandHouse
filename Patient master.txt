@@ -1,0 +1,6 @@
+001~~First~~Last~~null~~grfg~~45~~dsfefs~~null~~dd-mm-yyyy~~Patient
+002~~Aron~~Smith~~null~~grfg~~37~~pr3 4ds~~01234567890~~20-01-1962~~Patient
+003~~Lee~~Anderson~~null~~grfg~~27~~pr8 6jq~~null~~25-12-1999~~Patient
+004~~Jerry~~Tie~~null~~grfg~~28b~~pr97sq~~null~~29-04-1978~~Patient
+005~~Roger~~Lyer~~null~~grfg123~~59b~~pr95rs~~null~~19-05-1987~~Patient
+006~~Jack~~Winkle~~null~~grfg123~~57a~~pr83jd~~null~~19-04-1999~~Patient
